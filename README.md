@@ -1,2 +1,2 @@
-# CleanArchitectureExampleProjectTwo
- an example clean architecture project.
+# Hexagonal Architecture
+I will add an example project here in the future.
